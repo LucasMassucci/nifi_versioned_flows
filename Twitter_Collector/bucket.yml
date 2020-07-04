@@ -1,0 +1,6 @@
+flows:
+  8a2de730-3ef7-439a-868e-642a5dc0516d: {ver: 1, file: Twitter_Collector_Elastic_Postgres.snapshot,
+    comments: '', author: anonymous, created: 1593899829929, flowName: Twitter_Collector_Elastic_Postgres,
+    flowDesc: ''}
+layoutVer: 1
+bucketId: b897c673-f213-49ed-8472-3bbae21ec52f
